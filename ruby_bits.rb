@@ -1,4 +1,5 @@
 # add a comment
+# added one more comment
 
 def new_game(name, year=nil, system=nil)
   {
