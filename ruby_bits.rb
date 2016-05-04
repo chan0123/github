@@ -14,7 +14,7 @@ end
 module GameUtils
 
 	def lend_to_friend(friend)
-		puts "lend a game to friend #{friend}"
+		puts "lend a game to friend #{friend}."
 	end
 end
 
