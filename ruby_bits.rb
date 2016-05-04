@@ -1,10 +1,3 @@
-# add a comment
-# added one more comment
-# 3 comment
-# 4 comment
-# add comment on branch
-# comment
-
 def new_game(name, year=nil, system=nil)
   {
     name: name,
