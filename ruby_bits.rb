@@ -13,6 +13,7 @@ def new_game(name, year=nil, system=nil)
   }
 end
 
+# add some comment here
 module GameUtils
 
 	def lend_to_friend(friend)
