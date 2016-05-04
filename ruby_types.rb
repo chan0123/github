@@ -1,5 +1,3 @@
-# comments
-
 def integer_testing
 
 	# small integer will have class Fixnum
