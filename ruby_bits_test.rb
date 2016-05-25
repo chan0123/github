@@ -1,3 +1,5 @@
+#comment
+
 require 'test/unit'
 require_relative 'ruby_bits' # require_relative is for require files in same folder as this test file
 
